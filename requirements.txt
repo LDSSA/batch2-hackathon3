@@ -1,0 +1,15 @@
+beautifulsoup4
+Cython
+jupyter
+matplotlib
+mlxtend
+numpy
+pandas
+Pillow
+plotchecker
+psycopg2-binary
+requests
+scikit-learn
+seaborn
+SQLAlchemy
+
